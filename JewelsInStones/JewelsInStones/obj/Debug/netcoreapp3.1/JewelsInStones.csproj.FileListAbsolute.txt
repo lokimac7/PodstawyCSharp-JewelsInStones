@@ -1,0 +1,13 @@
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.exe
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.deps.json
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.runtimeconfig.json
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.runtimeconfig.dev.json
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.dll
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\bin\Debug\netcoreapp3.1\JewelsInStones.pdb
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.csprojAssemblyReference.cache
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.AssemblyInfoInputs.cache
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.AssemblyInfo.cs
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.csproj.CoreCompileInputs.cache
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.dll
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.pdb
+D:\Kamizelich\2. JewelsInStones\JewelsInStones\JewelsInStones\obj\Debug\netcoreapp3.1\JewelsInStones.genruntimeconfig.cache
